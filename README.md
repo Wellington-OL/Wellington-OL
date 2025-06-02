@@ -12,6 +12,8 @@ Atualmente trabalho como Analista de Planejamento Financeiro. Tenho formação e
 
 Frontend: React, Next.js, JavaScript, HTML, CSS
 
+Backend: Node.js, Python
+
 Banco de Dados: SQL
 
 📫 Como me encontrar:
